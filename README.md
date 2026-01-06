@@ -1,14 +1,14 @@
-🩺 ##*Health Risk Predictor*
+🩺 *Health Risk Predictor*
 
 A machine learning–based web application that predicts an individual’s health risk level using lifestyle and daily habit data.
 The system helps in identifying silent health risks early and provides personalized health suggestions.
 
-🚀   Live Application
+🚀   *Live Application*
 
-🔗  Deployed App:
+🔗  *Deployed App*:
 https://health-risk-predictor-pkvaz5exrgb5jkj7ws5dkc.streamlit.app
 
-📌 Project Overview
+📌 *Project Overview*
 
 The Silent Health Risk Predictor analyzes lifestyle factors such as sleep, stress, physical activity, food habits, and BMI to classify health risk into:
 
@@ -20,7 +20,7 @@ The Silent Health Risk Predictor analyzes lifestyle factors such as sleep, stres
 
 This project demonstrates the use of machine learning, data preprocessing, and cloud deployment using Streamlit.
 
-🎯  Key Features
+🎯  *Key Features*
 
 🔍  Dataset-based Prediction
 
