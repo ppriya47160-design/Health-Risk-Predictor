@@ -1,14 +1,14 @@
-🩺 ## Health Risk Predictor
+🩺 Health Risk Predictor
 
 A machine learning–based web application that predicts an individual’s health risk level using lifestyle and daily habit data.
 The system helps in identifying silent health risks early and provides personalized health suggestions.
 
-🚀  ## Live Application
+🚀   Live Application
 
-🔗 ## Deployed App:
+🔗  Deployed App:
 https://health-risk-predictor-pkvaz5exrgb5jkj7ws5dkc.streamlit.app
 
-📌 ## Project Overview
+📌 Project Overview
 
 The Silent Health Risk Predictor analyzes lifestyle factors such as sleep, stress, physical activity, food habits, and BMI to classify health risk into:
 
@@ -20,39 +20,39 @@ The Silent Health Risk Predictor analyzes lifestyle factors such as sleep, stres
 
 This project demonstrates the use of machine learning, data preprocessing, and cloud deployment using Streamlit.
 
-🎯 ## Key Features
+🎯  Key Features
 
-🔍 ##  Dataset-based Prediction
+🔍  Dataset-based Prediction
 
 Select a name from the dataset
 
 Predict health risk instantly
 
-✍️ ##  Manual Entry Prediction
+✍️   Manual Entry Prediction
 
 Enter lifestyle details manually
 
 Real-time health risk prediction
 
-🧠 ##  Machine Learning Model
+🧠   Machine Learning Model
 
 Random Forest Classifier
 
 Trained on real lifestyle survey data
 
-💡 ## Explainable Results
+💡  Explainable Results
 
 Shows reasons for predicted risk
 
 Provides health improvement suggestions
 
-🌐 ## Cloud Deployed
+🌐  Cloud Deployed
 
 Hosted using Streamlit Cloud
 
 GitHub integrated CI/CD
 
-🛠️ ## Technologies Used
+🛠️  Technologies Used
 Programming Language : Python
 Machine Learning :	Scikit-learn
 Data Processing	: Pandas, NumPy
@@ -61,7 +61,7 @@ Web Framework :	Streamlit
 Deployment : Streamlit Cloud
 Version Control :	Git & GitHub
 
-📂 ##  Project Structure
+📂   Project Structure
  ## Health-Risk-Predictor/
 │
 ├── app.py                      # Main Streamlit application
@@ -82,7 +82,7 @@ Version Control :	Git & GitHub
 ├── predict_by_name.py          # Dataset name-based prediction
 └── README.md
 
-🧪 ## Machine Learning Workflow
+🧪  Machine Learning Workflow
 
 Data Collection
 
@@ -110,7 +110,7 @@ Model saved using Joblib
 
 Streamlit app deployed via GitHub
 
-📊  ## Input Features
+📊   Input Features
 
 Age
 
@@ -130,7 +130,7 @@ Food habit
 
 BMI
 
-🧾 ## Output
+🧾  Output
 
 Health Risk Level
 
@@ -138,7 +138,7 @@ Risk Reasons
 
 Personalized Health Suggestions
 
-▶️ ## How to Run Locally
+▶️  How to Run Locally
 # Clone repository
 git clone https://github.com/ppriya47160-design/Health-Risk-Predictor.git
 
