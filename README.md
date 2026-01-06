@@ -1,4 +1,4 @@
-🩺 Health Risk Predictor
+🩺 ##*Health Risk Predictor*
 
 A machine learning–based web application that predicts an individual’s health risk level using lifestyle and daily habit data.
 The system helps in identifying silent health risks early and provides personalized health suggestions.
