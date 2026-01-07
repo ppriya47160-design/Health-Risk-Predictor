@@ -1,14 +1,14 @@
-🩺 ###Health Risk Predictor
+# 🩺Health Risk Predictor
 
 A machine learning–based web application that predicts an individual’s health risk level using lifestyle and daily habit data.
 The system helps in identifying silent health risks early and provides personalized health suggestions.
 
-🚀   *Live Application*
+ 🚀   Live Application
 
-🔗  *Deployed App*:
+# 🔗  Deployed App
 https://health-risk-predictor-pkvaz5exrgb5jkj7ws5dkc.streamlit.app
 
-📌 *Project Overview*
+# 📌 Project Overview
 
 The Silent Health Risk Predictor analyzes lifestyle factors such as sleep, stress, physical activity, food habits, and BMI to classify health risk into:
 
@@ -20,39 +20,26 @@ The Silent Health Risk Predictor analyzes lifestyle factors such as sleep, stres
 
 This project demonstrates the use of machine learning, data preprocessing, and cloud deployment using Streamlit.
 
-🎯  *Key Features*
 
-🔍  Dataset-based Prediction
-
-Select a name from the dataset
-
-Predict health risk instantly
-
-✍️   Manual Entry Prediction
-
-Enter lifestyle details manually
-
-Real-time health risk prediction
-
-🧠   Machine Learning Model
+# 🧠 Machine Learning Model
 
 Random Forest Classifier
 
 Trained on real lifestyle survey data
 
-💡  Explainable Results
+# 💡 Explainable Results
 
 Shows reasons for predicted risk
 
 Provides health improvement suggestions
 
-🌐  Cloud Deployed
+# 🌐  Cloud Deployed
 
 Hosted using Streamlit Cloud
 
 GitHub integrated CI/CD
 
-🛠️  Technologies Used
+# 🛠️  Technologies Used
 Programming Language : Python
 Machine Learning :	Scikit-learn
 Data Processing	: Pandas, NumPy
@@ -64,9 +51,9 @@ Version Control :	Git & GitHub
 📂   Project Structure
  ## Health-Risk-Predictor/
 │
-├── app.py                      # Main Streamlit application
-├── requirements.txt            # Dependencies
-├── health_risk_model.pkl       # Trained ML model
+├── app.py                     
+├── requirements.txt            
+├── health_risk_model.pkl      
 │
 ├── data/
 │   ├── real_lifestyle_data.csv
@@ -74,43 +61,29 @@ Version Control :	Git & GitHub
 │   └── final_dataset.csv
 │
 ├── assets/
-│   └── bg.jpg                  # Background image
-│
-├── preprocess.py               # Data preprocessing
-├── label_data.py               # Risk labeling logic
-├── train_model.py              # Model training
-├── predict_by_name.py          # Dataset name-based prediction
-└── README.md
+│   └── bg.jpg                  
+├── preprocess.py              
+├── label_data.py              
+├── train_model.py             
+├── predict_by_name.py          
 
-🧪  Machine Learning Workflow
+# 🧪  Machine Learning Workflow
 
-Data Collection
+   Data Collection
 
-Lifestyle data collected via Google Forms
+   Lifestyle data collected via Google Forms
 
-Data Preprocessing
+   Data Preprocessing
 
-Cleaning, encoding categorical values
+   Cleaning, encoding categorical values
 
-BMI calculation
+   BMI calculation
 
-Label Generation
+   Label Generation
 
-Health risk labeled as Low / Medium / High
+   Health risk labeled as Low / Medium / High
 
-Model Training
-
-Random Forest Classifier
-
-Feature selection and evaluation
-
-Deployment
-
-Model saved using Joblib
-
-Streamlit app deployed via GitHub
-
-📊   Input Features
+# 📊   Input Features
 
 Age
 
